@@ -1,5 +1,5 @@
 <?php
-
+ 
 class ProductManager extends BaseManager {
 
     public function insererDansBdd($product)
